@@ -1,0 +1,4 @@
+@EndUserText.label: 'Bus Service Definition'
+define service ZUI_Bus_G4_SD {
+  expose ZC_Bus_g4 as Bus;
+}
